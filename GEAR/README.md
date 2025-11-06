@@ -2,22 +2,22 @@
 Write the gear used.
 
 ### Gear Used
-* Team Lead (GL)
+* Team Lead (GL) * 1
     * Weapon: 
     * Sidearm:
     * Uniform:
     * Equipment:
-* Fire (MG)
+* Fire (MG) * 1
     * Weapon: 
     * Sidearm:
     * Uniform:
     * Equipment:
-* Fire (MG Assist)
+* Fire (MG Assist) * 1
     * Weapon: 
     * Sidearm:
     * Uniform:
     * Equipment:
-* Anti-Tank Rifleman
+* Combat Life-Saver
     * Weapon: 
     * Sidearm:
     * Uniform:

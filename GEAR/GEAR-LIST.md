@@ -2,7 +2,7 @@
 Write the gear used.
 
 ### Gear Used
-* Team Lead (GL) * 1
+* Squad Lead (GL) * 1
     * Weapon: 
     * Sidearm:
     * Uniform:
@@ -17,7 +17,7 @@ Write the gear used.
     * Sidearm:
     * Uniform:
     * Equipment:
-* Combat Life-Saver * 1
+* Corpsman * 1
     * Weapon: 
     * Sidearm:
     * Uniform:

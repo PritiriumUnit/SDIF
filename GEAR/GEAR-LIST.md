@@ -19,6 +19,6 @@ Write the gear used.
     * Equipment:
 * Corpsman * 1
     * Weapon: M16A4+ACOG+M952V Surefire 
-    * Sidearm:
+    * Sidearm:M9
     * Uniform:
     * Equipment:

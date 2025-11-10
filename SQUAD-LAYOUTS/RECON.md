@@ -1,9 +1,11 @@
 Teamleader
-Primary: M16A2 with M203
-Secondary: M9A1
+  - Primary weapom: M16A2 with M203GL
+  - Secondary weapon: M9
+  - Uniform: Desert MCCUU, Desert boonie hat
+  - Vest: IBA
 
-Recon sniper
-Primary: M40A1
-Secondary: M9A1
-
-Both equiped with MCCUU uniform, IBV vests and boonie hats
+Sniper
+  - Primary weapon: M40A1
+  - Secondary weapon: M9
+  - Uniform: Desert MCCUU, Desert boonie hat
+  - Vest: IBA

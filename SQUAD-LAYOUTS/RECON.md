@@ -1,11 +1,11 @@
 Teamleader
-  - Primary weapom: M16A2 with M203GL
+  - Primary weapom: M16A2 (GL)
   - Secondary weapon: M9
-  - Uniform: Desert MCCUU, Desert boonie hat
-  - Vest: IBA
+  - Uniform: TODO 
+  - Vest: TODO 
 
 Sniper
-  - Primary weapon: M40A1
+  - Primary weapon: M40A5 (Desert)
   - Secondary weapon: M9
-  - Uniform: Desert MCCUU, Desert boonie hat
-  - Vest: IBA
+  - Uniform: TODO 
+  - Vest: TODO 

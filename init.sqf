@@ -1,3 +1,3 @@
-ready = false;
+lima_ready = false;
 
-publicVariable "ready";
+publicVariable "lima_ready";

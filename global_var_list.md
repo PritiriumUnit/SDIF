@@ -1,5 +1,8 @@
 abrams = M1A1AIM
-transport = MRAP
+lima_transport = MRAP
+recon_transport = Humvee
+lima_ready = Boolean for knowing when lima is in transport
+recon_ready = Boolean for knowing when recon is in transport
 
 Lima:
 LigmaTL = Lima Squad Leader

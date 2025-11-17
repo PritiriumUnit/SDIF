@@ -11,7 +11,7 @@ _lima_in_vehicle = 0;
 
 if (_lima_in_vehicle == _lima_units_c) then {
 	sleep 5;
-
+	execVM "SCRIPTS\SUBTITLES\start_ligma.sqf";
 	lima_ready = true;
 	publicVariable "lima_ready";
 };

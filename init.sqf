@@ -5,7 +5,7 @@ publicVariable "lima_ready";
 publicVariable "recon_ready";
 
 lima_arrived = false;
-recon_in_pos = false;
+recon_arrived = false;
 
 publicVariable "lima_arrived";
-publicVariable "recon_in_post";
+publicVariable "recon_arrived";
